@@ -75,5 +75,10 @@ int main() {
 ![](https://github.com/SunidhiChoubey/basics/blob/main/Screenshot%202024-07-23%20012318.png)
 
 ## CONCLUSION
-We learnt how to download vs code and learnt how to do basic program in C++
+We learnt how to download vs code and learnt how to do basic program in C++.
+
+# EXPERIMENT-2
+# To study and implement C++ Program Structure (Data types)
+
+
 
