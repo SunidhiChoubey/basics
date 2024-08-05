@@ -155,21 +155,23 @@ int main() {
 ![](https://github.com/SunidhiChoubey/basics/blob/main/Screenshot%202024-07-23%20013226.png)
 ### code for stoarge class
 ~~~
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-extern int extern_variable =30;
-int main()
-{
+int extern_variable = 30; 
+int main() {
     auto a = 8;
     register int registered_variable = 100;
     static int s = 7;
-    cout << "The local variable: "<< a << std::endl;
-    cout <<"The variable in register: "<<registered_variable<<endl;
-    std::cout<<"External variable: "<<extern_variable<<endl;
+    
+    cout << "The local variable: " << a << std::endl;
+    cout << "The variable in register: " << registered_variable << endl;
+    cout << "External variable: " << extern_variable << endl;
+    
     s = 10;
-    cout<<"The static variable: "<<s<<endl;
-
+    cout << "The static variable: " << s << endl;
+    
+    return 0;
 }
 ~~~
 ## OUTPUT-
