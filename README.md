@@ -173,9 +173,7 @@ int main()
 }
 ~~~
 ## OUTPUT-
-
-
-
+![](https://github.com/SunidhiChoubey/basics/blob/main/Screenshot%202024-08-06%20021720.png)
 ## CONCLUSION-
 We learnt how to run and implement the basic fundatamentals of C++ for example the varibales and their sizes, the different type of storage classes.
 
@@ -259,6 +257,8 @@ int main() {
     return 0;
 }
 ~~~
+## OUTPUT-
+![](https://github.com/SunidhiChoubey/basics/blob/main/Screenshot%202024-08-06%20021824.png)
 ## CONCLUSION-
 We learnt how to execute different types of operators(arithmetic, assignment and comparison operator) on c++.
 
@@ -310,5 +310,7 @@ int main() {
     return 0;
 }
 ~~~
+## OUTPUT-
+![](https://github.com/SunidhiChoubey/basics/blob/main/Screenshot%202024-08-06%20021908.png)
 ## CONCLUSION-
 We learnt in depth about bitwise operator and learnt how to use this in program.
