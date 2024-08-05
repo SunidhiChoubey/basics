@@ -1,4 +1,5 @@
 # EXPERIMENT-1
+
 ## AIM-Downloading and Installing VS Code, (Hello World and Calculator program)
 
 ## THEORY- 
@@ -78,7 +79,46 @@ int main() {
 We learnt how to download vs code and learnt how to do basic program in C++.
 
 # EXPERIMENT-2
-# To study and implement C++ Program Structure (Data types)
+## AIM- To study and implement C++ Program Structure (Data types)
+## THEORY-
+In C++, variables are declared with specific data types to restrict the type of data they can store. The compiler allocates memory based on the declared data type, and each data type requires a different amount of memory. The data types in C++ include:
+Character (char)
+Integer (int)
+Boolean (bool)
+Floating point (float)
+Double Floating point (double)
+Void (void)
+Wide Character (wchar_t)
+### Modifiers
+Data types can have modifiers to adjust their size and storage capacity:
+Short
+Long
+Signed
+Unsigned
+For instance, using the long modifier with an integer type can extend its size to 4 bytes.
+### Storage Classes
+Variables in C++ can be stored in different storage classes:
+#### Auto
+Default storage class for variables declared inside a function or block.
+Accessible only within the block or function they are declared in.
+#### Extern
+Indicates that the variable is defined elsewhere.
+Can be accessed within any function or block.
+Typically used for global variables.
+#### Static
+Preserves the value of a variable even after its scope ends.
+Initialized only once and retains value throughout the program's lifecycle.
+Local to the function they are defined in, but global static variables can be accessed anywhere in the program.
+Default value is 0.
+#### Register
+Hints the compiler to store the variable in a CPU register for faster access.
+If no register is available, the variable is stored in memory.
+Useful for frequently accessed variables.
+The address of a register variable cannot be obtained using pointers.
+## CODES
+~~~
+
+
 
 
 
