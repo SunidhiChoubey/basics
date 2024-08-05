@@ -151,6 +151,8 @@ int main() {
     return 0;
 }
 ~~~
+## OUTPUT-
+![](https://github.com/SunidhiChoubey/basics/blob/main/Screenshot%202024-07-23%20013226.png)
 ### code for stoarge class
 ~~~
 #include<iostream>
@@ -170,6 +172,8 @@ int main()
 
 }
 ~~~
+## OUTPUT-
+
 
 
 ## CONCLUSION-
