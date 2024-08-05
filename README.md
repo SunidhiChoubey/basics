@@ -265,7 +265,7 @@ int main() {
 We learnt how to execute different types of operators(arithmetic, assignment and comparison operator) on c++.
 
 # EXPERIMENT-4
-## AIM- Ro study and implement C++ Bitwise Operators
+## AIM- To study and implement C++ Bitwise Operators
 ## THEORY-
 Bitwise operators perform operations at the bit level on integers, treating them as sequences of binary digits. C++ provides various bitwise operators:
 ### Bitwise AND (&):
